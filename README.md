@@ -5,7 +5,7 @@ Homework for the Data Mining course
 
 The Graphical Interface of the Program
 
-![Program](output graph.jpg)
+![Program](output_graph.jpg)
 
 ## Notice
 I learned and wrote in VB6 for this course.   
