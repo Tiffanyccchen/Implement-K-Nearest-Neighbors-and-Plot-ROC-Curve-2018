@@ -3,7 +3,7 @@ Homework for the Data Mining course
 
 ## Introduction
 
-The Graphical Interface of the Program
+The Graphical Interface of the Program.
 
 ![Program](output_graph.jpg)
 
